@@ -1,0 +1,45 @@
+.header_links {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.main_header {
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 86px;
+}
+
+.text_below_main_header {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.sing_up_button {
+    border-radius: 6px;
+    width: 160px;
+    height: 50px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #ED4C5C;
+}
+
+.header {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+
+.main_text {
+    font-size: 14px;
+    line-height: 140%;
+}
+
+.learn_more_link {
+    font-size: 14px;
+    line-height: 140%;
+    color: #ED4C5C;
+}
